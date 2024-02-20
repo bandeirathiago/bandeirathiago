@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Meu nome é Thiago e é um prazer te recebeer aqui!</h1>
+<h1 align="center">Olá! 👋 Meu nome é Thiago. Seja bem vindo(a)!</h1>
 <h3 align="center">Este é meu repositório de Análise de Dados e outras tecnologias (<em>Em construçao...sempre!</em>)</h3>
 
 <h2 align="left">🗨 Sobre mim:</h2>
