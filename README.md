@@ -1,12 +1,13 @@
-<h1 align="center">Olá! 👋 Meu nome é Thiago. Seja bem vindo(a)!</h1>
-<h3 align="center">Este é meu repositório de Análise de Dados e outras tecnologias (<em>Em construçao...sempre!</em>)</h3>
+<h1 align="center">Olá! 👋 Sou o Thiago, seja bem-vindo(a) ao meu espaço no GitHub! 👨🏻‍💻</h1>
 
-<h2 align="left">🗨 Sobre mim:</h2>
+<h2 align="left">🚀 Sobre mim:</h2>
 
- - 👨‍🎓 Estou cursando Analise de Dados e Inteligência de Mercado.
- - 👨‍💻 Desde muito pequeno, sempre fui fascinado por tecnologia e como ela pode facilitar nosso dia a dia. Mas após uma experiência como KeyUser em um projeto de implementaçao do SAP S/4 HANA que decidi que seria meu futuro profissional e acadêmico.  
- - 📊 Há muitos anos que trabalho em areas de negócio onde ja desenvolvi e atuei com diversas ferramentas e relatórios para forneceder dados para tomada de decisão  (sobretudo com PowerBI e Excel)
- - 🔭 Atualmente estou focado nas áreas de Análise de Dados e desenvolvimento Web. Estou interessado em descobrir como unir essas duas sub-areas da tecnologia (que tem todo meu coraçao) e extrair resultados disso.
+- 👨‍🎓 Atualmente cursando Análise de Dados e Inteligência de Mercado.
+- 👨‍💻 Fascinado por tecnologia desde a infância, minha trajetória tomou rumo definido após atuar como KeyUser em um projeto de implementação do SAP S/4 HANA.
+- 📊 Com vários anos de experiência em áreas de negócio, desenvolvi e implementei diversas ferramentas e relatórios, com destaque para o uso proficiente de PowerBI e Excel na entrega de dados cruciais para tomada de decisões.
+- 🔭 Meu foco atual está nas áreas de Análise de Dados e Desenvolvimento Web, onde busco a integração eficaz dessas duas subáreas, dedicando meu coração e mente ao desafio de extrair resultados inovadores.
+
+<h4 align="center"><i>"Este repositório está em constante evolução, refletindo meu comprometimento com aprendizado contínuo e aprimoramento técnico. Sinta-se à vontade para explorar e compartilhar suas ideias!"</i></h4>
 
 <h2 align="left">🖥 Tech Skills</h2>
 
@@ -28,10 +29,10 @@
 ###
   <h2 align="left">🗺 Guia de Repositórios</h2>
 
- - [Portfolio](https://github.com/bandeirathiago?tab=repositories): Ainda estou trabalhando nisso.
+ - [Portfolio](https://github.com/bandeirathiago?tab=repositories): ...ainda estou trabalhando nisso.
  - [Cursos](https://github.com/bandeirathiago/Cursos): Cursos e Certificações
 
-<h2 align="left">🌐 Redes</h2>
+<h2 align="left">📫 Contato:</h2>
 <div style="display: inline_block">
  <p align="left">
  <a href="https://www.linkedin.com/in/thiago-santos-2b74b5143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henriquewfranco" height="30" width="40" /></a>
