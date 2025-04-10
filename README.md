@@ -2,10 +2,10 @@
 
 <h2 align="left">🚀 Sobre mim:</h2>
 
-- 👨‍🎓 Atualmente cursando Análise de Dados e Inteligência de Mercado.
-- 👨‍💻 Fascinado por tecnologia desde a infância, minha trajetória tomou rumo definido após atuar como KeyUser em um projeto de implementação do SAP S/4 HANA.
+- 👨‍🎓 Atualmente cursando Ciencia de Dados.
+- 👨‍💻 Fascinado por tecnologia e como ela pode ajudar a extrair o maximo de soluçoes em TUDO.
 - 📊 Com vários anos de experiência em áreas de negócio, desenvolvi e implementei diversas ferramentas e relatórios, com destaque para o uso proficiente de PowerBI e Excel na entrega de dados cruciais para tomada de decisões.
-- 🔭 Meu foco atual está nas áreas de Análise de Dados e Desenvolvimento Web, onde busco a integração eficaz dessas duas subáreas, dedicando meu coração e mente ao desafio de extrair resultados inovadores.
+- 🔭 Atualmente focado em estudos e projetos de Análise de Dados com foco em resultados.
 
 <h4 align="center"><i>"Este repositório está em constante evolução, refletindo meu comprometimento com aprendizado contínuo e aprimoramento técnico. Sinta-se à vontade para explorar e compartilhar suas ideias!"</i></h4>
 
