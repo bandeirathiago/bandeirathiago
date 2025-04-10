@@ -30,7 +30,7 @@
   <h2 align="left">🗺 Guia de Repositórios</h2>
 
  - [Portfolio](https://github.com/bandeirathiago?tab=repositories): ...ainda estou trabalhando nisso.
- - [Cursos](https://github.com/bandeirathiago/Cursos): Cursos e Certificações
+ - [Certificados](https://github.com/bandeirathiago/Cursos): Cursos e Certificações
 
 <h2 align="left">📫 Contato:</h2>
 <div style="display: inline_block">
